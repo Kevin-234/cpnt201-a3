@@ -48,6 +48,7 @@ button {
   display: flex;
   width: 6.5em;
   margin:auto;
+  margin-bottom: 6rem;
   
 /* centerize the letter */
   justify-content: center;

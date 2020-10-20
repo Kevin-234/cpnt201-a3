@@ -1,6 +1,6 @@
 # CPNT201-A3 SVG Graphic
 ## Kevin Taguchi
-## GH [Link](https://kevin-234.github.io/cpnt201-a3/
+## GH [Link](https://kevin-234.github.io/cpnt201-a3/)
 ### Attribution 
 
 - [CSS-Tricks](https://css-tricks.com/lodge/svg/07-using-svg-inline-svg/)

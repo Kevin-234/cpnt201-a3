@@ -1,3 +1,4 @@
+// First ball
 const ball = document.querySelector('.ball1');
 const button = document.querySelector('button');
 
@@ -7,6 +8,7 @@ button.addEventListener('click', function(){
   button.classList.toggle('hue');
 });
 
+// Second ball
 const ball2 = document.querySelector('.ball2');
 const btn = document.querySelector('.btn');
 

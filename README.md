@@ -1,12 +1,11 @@
 # CPNT201-A3 SVG Graphic
 ## Kevin Taguchi
-## GH [Link]()
+## GH [Link](https://kevin-234.github.io/cpnt201-a3/
 ### Attribution 
 
 - [CSS-Tricks](https://css-tricks.com/lodge/svg/07-using-svg-inline-svg/)
 - [Sample-code](https://codepen.io/kxnvjuza/pen/GRqgGNo)
 - [flat icon](https://www.flaticon.com/)
--Figma
 
 ## Summary
 I used Figma to make SVG graphic. I drew number three by pen and added an icon bottom right on billiard ball.
